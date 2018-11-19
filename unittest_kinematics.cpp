@@ -1,4 +1,5 @@
 #include "gtest\gtest.h"
+//#include "unittest_solver.cpp"
 #include "../NelderMeadSolver/SimplexFactory.h"
 #include "../NelderMeadSolver/Solver.h"
 #include "../KinematicBase/ValueWrapperJoint.h"
